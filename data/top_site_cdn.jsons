@@ -1,0 +1,475 @@
+{"url": "blogspot.com", "object_size": {"Google": 3429}, "object_count": {"Google": 2}}
+{"url": "go.com", "object_size": {"Level3": 106124, "Akamai": 91028, "Google": 170956}, "object_count": {"Level3": 16, "Akamai": 5, "Google": 4}}
+{"url": "ouo.io", "object_size": {"Cloudflare": 18824, "Google": 420190}, "object_count": {"Cloudflare": 2, "Google": 26}}
+{"url": "google.com.co", "object_size": {"Google": 54751}, "object_count": {"Google": 7}}
+{"url": "rt.com", "object_size": {"Google": 509026}, "object_count": {"Google": 23}}
+{"url": "daum.net", "object_size": {"Akamai": 244404}, "object_count": {"Akamai": 50}}
+{"url": "telegram.org", "object_size": {"Google": 12577}, "object_count": {"Google": 3}}
+{"url": "tistory.com", "object_size": {"Akamai": 147914}, "object_count": {"Akamai": 16}}
+{"url": "naver.com", "object_size": {"Akamai": 311706}, "object_count": {"Akamai": 69}}
+{"url": "washingtonpost.com", "object_size": {"Amazon Cloudfront": 13396, "Google": 105708, "Akamai": 188530, "Fastly": 82368}, "object_count": {"Amazon Cloudfront": 4, "Google": 11, "Akamai": 6, "Fastly": 5}}
+{"url": "salesforce.com", "object_size": {"Akamai": 10985}, "object_count": {"Akamai": 2}}
+{"url": "ebay-kleinanzeigen.de", "object_size": {"Google": 77050, "Akamai": 96625}, "object_count": {"Google": 11, "Akamai": 37}}
+{"url": "mail.ru", "object_size": {"Google": 180039}, "object_count": {"Google": 13}}
+{"url": "themeforest.net", "object_size": {"Amazon Cloudfront": 1384774, "Google": 44465, "Fastly": 13257}, "object_count": {"Amazon Cloudfront": 85, "Google": 13, "Fastly": 1}}
+{"url": "theladbible.com", "object_size": {"EdgeCast": 20880, "Google": 246776, "Amazon Cloudfront": 32668, "Fastly": 22729, "MaxCDN": 27466, "Akamai": 27460, "Cloudflare": 16117}, "object_count": {"EdgeCast": 1, "Google": 17, "Amazon Cloudfront": 4, "Fastly": 1, "MaxCDN": 1, "Akamai": 3, "Cloudflare": 3}}
+{"url": "cnzz.com", "object_size": {}, "object_count": {}}
+{"url": "w3schools.com", "object_size": {"EdgeCast": 77840, "Google": 178289}, "object_count": {"EdgeCast": 5, "Google": 20}}
+{"url": "onedio.com", "object_size": {"Amazon Cloudfront": 1821625, "Google": 489252, "Akamai": 1495, "MaxCDN": 85249}, "object_count": {"Amazon Cloudfront": 198, "Google": 32, "Akamai": 1, "MaxCDN": 3}}
+{"url": "box.com", "object_size": {"Amazon Cloudfront": 26516, "Google": 58872, "Akamai": 132284}, "object_count": {"Amazon Cloudfront": 2, "Google": 2, "Akamai": 9}}
+{"url": "bukalapak.com", "object_size": {"Amazon Cloudfront": 3897, "EdgeCast": 397693, "Google": 77748, "Akamai": 360, "Fastly": 10350}, "object_count": {"Amazon Cloudfront": 5, "EdgeCast": 21, "Google": 18, "Akamai": 3, "Fastly": 2}}
+{"url": "taobao.com", "object_size": {"Google": 11277, "Akamai": 4275}, "object_count": {"Google": 3, "Akamai": 2}}
+{"url": "sh.st", "object_size": {"MaxCDN": 27466, "Google": 163553, "Fastly": 4702}, "object_count": {"MaxCDN": 1, "Google": 7, "Fastly": 1}}
+{"url": "jd.com", "object_size": {"EdgeCast": 442446}, "object_count": {"EdgeCast": 23}}
+{"url": "douyu.com", "object_size": {}, "object_count": {}}
+{"url": "aliexpress.com", "object_size": {"Google": 18049, "Akamai": 4523}, "object_count": {"Google": 11, "Akamai": 2}}
+{"url": "9gag.com", "object_size": {"MaxCDN": 1433105, "Google": 463964, "Akamai": 9764}, "object_count": {"MaxCDN": 47, "Google": 16, "Akamai": 3}}
+{"url": "google.ru", "object_size": {"Google": 51390}, "object_count": {"Google": 6}}
+{"url": "gizmodo.com", "object_size": {"Amazon Cloudfront": 49687, "EdgeCast": 45972, "Google": 195145, "Akamai": 217396, "Fastly": 318873}, "object_count": {"Amazon Cloudfront": 3, "EdgeCast": 1, "Google": 16, "Akamai": 5, "Fastly": 4}}
+{"url": "dmm.com", "object_size": {"Google": 131025, "Akamai": 42830}, "object_count": {"Google": 7, "Akamai": 13}}
+{"url": "amazon.it", "object_size": {"Amazon Cloudfront": 3936411, "EdgeCast": 237131, "Google": 318}, "object_count": {"Amazon Cloudfront": 220, "EdgeCast": 29, "Google": 1}}
+{"url": "google.dk", "object_size": {"Google": 390808}, "object_count": {"Google": 7}}
+{"url": "repubblica.it", "object_size": {"Google": 26874, "Akamai": 822894}, "object_count": {"Google": 1, "Akamai": 73}}
+{"url": "amazon.ca", "object_size": {"Amazon Cloudfront": 4076114, "Google": 344196}, "object_count": {"Amazon Cloudfront": 209, "Google": 17}}
+{"url": "mlb.com", "object_size": {"Amazon Cloudfront": 18560, "Google": 215134, "Akamai": 678102}, "object_count": {"Amazon Cloudfront": 4, "Google": 7, "Akamai": 53}}
+{"url": "shutterstock.com", "object_size": {"Amazon Cloudfront": 208423, "Google": 117915, "Akamai": 331426, "Fastly": 22676}, "object_count": {"Amazon Cloudfront": 6, "Google": 11, "Akamai": 54, "Fastly": 1}}
+{"url": "coccoc.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 319565, "Akamai": 1495, "CDNetworks": 8918}, "object_count": {"Amazon Cloudfront": 3, "Google": 17, "Akamai": 1, "CDNetworks": 1}}
+{"url": "webtretho.com", "object_size": {"MaxCDN": 13633, "Fastly": 29885, "Google": 520026, "Akamai": 61580, "Amazon Cloudfront": 3826}, "object_count": {"MaxCDN": 1, "Fastly": 1, "Google": 29, "Akamai": 9, "Amazon Cloudfront": 3}}
+{"url": "google.com.tr", "object_size": {"Google": 16450}, "object_count": {"Google": 6}}
+{"url": "xvideos.com", "object_size": {"Highwinds": 189877, "Limelight": 5436}, "object_count": {"Highwinds": 10, "Limelight": 2}}
+{"url": "weibo.com", "object_size": {}, "object_count": {}}
+{"url": "github.com", "object_size": {"Fastly": 223278}, "object_count": {"Fastly": 13}}
+{"url": "wikipedia.org", "object_size": {}, "object_count": {}}
+{"url": "rakuten.co.jp", "object_size": {"Akamai": 3121549}, "object_count": {"Akamai": 672}}
+{"url": "google.com.ph", "object_size": {"Google": 58658}, "object_count": {"Google": 7}}
+{"url": "amazon.de", "object_size": {"Amazon Cloudfront": 2485018, "Google": 618}, "object_count": {"Amazon Cloudfront": 226, "Google": 2}}
+{"url": "wittyfeed.com", "object_size": {"Amazon Cloudfront": 3768, "Google": 52523, "Akamai": 7909}, "object_count": {"Amazon Cloudfront": 2, "Google": 10, "Akamai": 2}}
+{"url": "google.cn", "object_size": {"Google": 8117}, "object_count": {"Google": 3}}
+{"url": "ebay.in", "object_size": {"Google": 123438, "Akamai": 1244604}, "object_count": {"Google": 6, "Akamai": 102}}
+{"url": "weebly.com", "object_size": {"EdgeCast": 453222, "Google": 93719, "Akamai": 75360}, "object_count": {"EdgeCast": 15, "Google": 11, "Akamai": 9}}
+{"url": "huanqiu.com", "object_size": {"ChinaCache": 401894}, "object_count": {"ChinaCache": 83}}
+{"url": "google.com", "object_size": {"Google": 8953}, "object_count": {"Google": 5}}
+{"url": "livejournal.com", "object_size": {"Amazon Cloudfront": 86083, "Google": 346175, "Akamai": 59755, "CDNetworks": 400600}, "object_count": {"Amazon Cloudfront": 4, "Google": 17, "Akamai": 5, "CDNetworks": 23}}
+{"url": "gsmarena.com", "object_size": {"MaxCDN": 140143, "Google": 939140, "Akamai": 10785, "Amazon Cloudfront": 42}, "object_count": {"MaxCDN": 14, "Google": 60, "Akamai": 5, "Amazon Cloudfront": 1}}
+{"url": "milliyet.com.tr", "object_size": {"MaxCDN": 19175, "Google": 231574, "Akamai": 48658}, "object_count": {"MaxCDN": 3, "Google": 21, "Akamai": 10}}
+{"url": "booking.com", "object_size": {"EdgeCast": 1115791, "Google": 28057}, "object_count": {"EdgeCast": 52, "Google": 5}}
+{"url": "taleo.net", "object_size": {}, "object_count": {}}
+{"url": "fedex.com", "object_size": {"Akamai": 140669}, "object_count": {"Akamai": 9}}
+{"url": "goo.ne.jp", "object_size": {"Google": 453783, "Yahoo": 9688, "Akamai": 235336}, "object_count": {"Google": 17, "Yahoo": 1, "Akamai": 48}}
+{"url": "baike.com", "object_size": {"Google": 27685}, "object_count": {"Google": 4}}
+{"url": "hdfcbank.com", "object_size": {}, "object_count": {}}
+{"url": "mozilla.org", "object_size": {"EdgeCast": 10583, "Google": 4491}, "object_count": {"EdgeCast": 1, "Google": 6}}
+{"url": "allegro.pl", "object_size": {"Amazon Cloudfront": 97463, "EdgeCast": 6806, "Google": 26794}, "object_count": {"Amazon Cloudfront": 7, "EdgeCast": 1, "Google": 6}}
+{"url": "alibaba.com", "object_size": {"Google": 28578}, "object_count": {"Google": 5}}
+{"url": "dmm.co.jp", "object_size": {"Google": 130990, "Akamai": 38938}, "object_count": {"Google": 6, "Akamai": 2}}
+{"url": "snapdeal.com", "object_size": {"EdgeCast": 6902, "Google": 12086, "Akamai": 606570}, "object_count": {"EdgeCast": 1, "Google": 3, "Akamai": 43}}
+{"url": "hclips.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 358567}, "object_count": {"Amazon Cloudfront": 3, "Google": 14}}
+{"url": "lifehacker.com", "object_size": {"Amazon Cloudfront": 49687, "EdgeCast": 45972, "Google": 44959, "Akamai": 44670, "Fastly": 324401}, "object_count": {"Amazon Cloudfront": 3, "EdgeCast": 1, "Google": 8, "Akamai": 4, "Fastly": 4}}
+{"url": "oracle.com", "object_size": {"Google": 2391, "Akamai": 798332}, "object_count": {"Google": 2, "Akamai": 22}}
+{"url": "ameblo.jp", "object_size": {"Google": 153898, "Akamai": 744163}, "object_count": {"Google": 5, "Akamai": 82}}
+{"url": "slither.io", "object_size": {"Google": 164548}, "object_count": {"Google": 3}}
+{"url": "aol.com", "object_size": {"Amazon Cloudfront": 414, "Google": 50511, "Akamai": 1024036}, "object_count": {"Amazon Cloudfront": 1, "Google": 11, "Akamai": 68}}
+{"url": "ebay.it", "object_size": {"Google": 307070, "Akamai": 1795027}, "object_count": {"Google": 10, "Akamai": 161}}
+{"url": "amazon.cn", "object_size": {"Amazon Cloudfront": 8813, "Google": 618, "ChinaCache": 1097274}, "object_count": {"Amazon Cloudfront": 3, "Google": 2, "ChinaCache": 107}}
+{"url": "cnnic.cn", "object_size": {}, "object_count": {}}
+{"url": "google.com.br", "object_size": {"Google": 12592}, "object_count": {"Google": 5}}
+{"url": "kissanime.to", "object_size": {}, "object_count": {}}
+{"url": "google.ie", "object_size": {"Google": 205742}, "object_count": {"Google": 7}}
+{"url": "shopify.com", "object_size": {"Fastly": 467066, "Google": 71334, "Amazon Cloudfront": 8801}, "object_count": {"Fastly": 14, "Google": 8, "Amazon Cloudfront": 1}}
+{"url": "att.com", "object_size": {"Akamai": 1072024}, "object_count": {"Akamai": 43}}
+{"url": "google.com.pe", "object_size": {"Google": 20390}, "object_count": {"Google": 5}}
+{"url": "livedoor.jp", "object_size": {"Cloudflare": 45986, "Amazon Cloudfront": 42, "Google": 611975, "Akamai": 28159}, "object_count": {"Cloudflare": 4, "Amazon Cloudfront": 1, "Google": 43, "Akamai": 7}}
+{"url": "pinimg.com", "object_size": {"Fastly": 12158, "Akamai": 3690959}, "object_count": {"Fastly": 1, "Akamai": 20}}
+{"url": "1688.com", "object_size": {}, "object_count": {}}
+{"url": "uol.com.br", "object_size": {"Google": 598039, "Akamai": 1495}, "object_count": {"Google": 14, "Akamai": 1}}
+{"url": "forbes.com", "object_size": {"Highwinds": 60, "Amazon Cloudfront": 943, "Google": 1117946, "Akamai": 270822}, "object_count": {"Highwinds": 1, "Amazon Cloudfront": 6, "Google": 52, "Akamai": 26}}
+{"url": "blog.jp", "object_size": {"Google": 218596, "Akamai": 20949}, "object_count": {"Google": 11, "Akamai": 5}}
+{"url": "zhihu.com", "object_size": {"Google": 11761, "Akamai": 164056}, "object_count": {"Google": 4, "Akamai": 14}}
+{"url": "blogger.com", "object_size": {"Google": 2559}, "object_count": {"Google": 2}}
+{"url": "sina.com.cn", "object_size": {"Panther": 466057}, "object_count": {"Panther": 29}}
+{"url": "ozock.com", "object_size": {"MaxCDN": 26711, "Google": 127356, "Amazon Cloudfront": 3826}, "object_count": {"MaxCDN": 1, "Google": 5, "Amazon Cloudfront": 3}}
+{"url": "ci123.com", "object_size": {"ChinaNetCenter": 8927, "Akamai": 377, "ChinaCache": 180273}, "object_count": {"ChinaNetCenter": 2, "Akamai": 1, "ChinaCache": 63}}
+{"url": "irctc.co.in", "object_size": {"Google": 575959}, "object_count": {"Google": 36}}
+{"url": "360.cn", "object_size": {"Amazon Cloudfront": 1009551}, "object_count": {"Amazon Cloudfront": 135}}
+{"url": "eksisozluk.com", "object_size": {"Amazon Cloudfront": 3768, "Google": 127294}, "object_count": {"Amazon Cloudfront": 2, "Google": 15}}
+{"url": "ndtv.com", "object_size": {"Fastly": 67145, "EdgeCast": 31225, "Google": 1139666, "Akamai": 1935561}, "object_count": {"Fastly": 2, "EdgeCast": 1, "Google": 81, "Akamai": 239}}
+{"url": "reuters.com", "object_size": {"EdgeCast": 41918, "Google": 816342, "Mirror Image": 11604, "Fastly": 44351, "Amazon Cloudfront": 1163950, "Akamai": 341573, "Cloudflare": 20012}, "object_count": {"EdgeCast": 1, "Google": 40, "Mirror Image": 2, "Fastly": 3, "Amazon Cloudfront": 62, "Akamai": 39, "Cloudflare": 1}}
+{"url": "engadget.com", "object_size": {"Fastly": 5162, "Google": 12891, "Akamai": 1001963, "Amazon Cloudfront": 38761}, "object_count": {"Fastly": 2, "Google": 4, "Akamai": 31, "Amazon Cloudfront": 3}}
+{"url": "twitch.tv", "object_size": {"Amazon Cloudfront": 124712, "Fastly": 16094, "Level3": 953055, "Akamai": 7909, "Google": 21392}, "object_count": {"Amazon Cloudfront": 7, "Fastly": 5, "Level3": 72, "Akamai": 2, "Google": 9}}
+{"url": "wsj.com", "object_size": {"Amazon Cloudfront": 30386, "EdgeCast": 172844, "Google": 216534, "Akamai": 637352, "Fastly": 61664}, "object_count": {"Amazon Cloudfront": 4, "EdgeCast": 14, "Google": 12, "Akamai": 58, "Fastly": 2}}
+{"url": "xfinity.com", "object_size": {"Google": 3498, "Akamai": 1502268}, "object_count": {"Google": 10, "Akamai": 72}}
+{"url": "skype.com", "object_size": {"Akamai": 8206}, "object_count": {"Akamai": 1}}
+{"url": "doubleclick.net", "object_size": {"Google": 1474794}, "object_count": {"Google": 123}}
+{"url": "ltn.com.tw", "object_size": {"MaxCDN": 8723, "Google": 557483, "Akamai": 1495, "Amazon Cloudfront": 3826}, "object_count": {"MaxCDN": 1, "Google": 46, "Akamai": 1, "Amazon Cloudfront": 3}}
+{"url": "amazon.co.jp", "object_size": {"Amazon Cloudfront": 2581366, "Akamai": 29102}, "object_count": {"Amazon Cloudfront": 194, "Akamai": 4}}
+{"url": "eastday.com", "object_size": {"CDNetworks": 368}, "object_count": {"CDNetworks": 1}}
+{"url": "hurriyet.com.tr", "object_size": {"Cloudflare": 9016, "MaxCDN": 222370, "EdgeCast": 86321, "Google": 544283, "Akamai": 1495}, "object_count": {"Cloudflare": 1, "MaxCDN": 5, "EdgeCast": 1, "Google": 15, "Akamai": 1}}
+{"url": "varzesh3.com", "object_size": {"Amazon Cloudfront": 3826}, "object_count": {"Amazon Cloudfront": 3}}
+{"url": "vk.com", "object_size": {}, "object_count": {}}
+{"url": "soundcloud.com", "object_size": {"EdgeCast": 124377, "Google": 23969, "Akamai": 7909}, "object_count": {"EdgeCast": 18, "Google": 2, "Akamai": 2}}
+{"url": "leboncoin.fr", "object_size": {"Amazon Cloudfront": 15862, "EdgeCast": 99209, "Level3": 16019}, "object_count": {"Amazon Cloudfront": 1, "EdgeCast": 9, "Level3": 1}}
+{"url": "wikihow.com", "object_size": {"Fastly": 286705, "EdgeCast": 268511, "CDNetworks": 1751504}, "object_count": {"Fastly": 15, "EdgeCast": 1, "CDNetworks": 66}}
+{"url": "accuweather.com", "object_size": {"EdgeCast": 12800, "Google": 721898, "Akamai": 1144730, "Fastly": 22676, "Amazon Cloudfront": 32643, "CDNetworks": 4084}, "object_count": {"EdgeCast": 1, "Google": 39, "Akamai": 84, "Fastly": 1, "Amazon Cloudfront": 2, "CDNetworks": 1}}
+{"url": "macys.com", "object_size": {"Fastly": 218170, "Google": 38579, "Akamai": 1909879, "Amazon Cloudfront": 22084}, "object_count": {"Fastly": 8, "Google": 8, "Akamai": 130, "Amazon Cloudfront": 1}}
+{"url": "directrev.com", "object_size": {"Amazon Cloudfront": 174135, "Google": 224702}, "object_count": {"Amazon Cloudfront": 19, "Google": 8}}
+{"url": "sabah.com.tr", "object_size": {"Amazon Cloudfront": 3826, "Google": 666659, "Akamai": 163703, "CDNetworks": 2599919, "MaxCDN": 199619}, "object_count": {"Amazon Cloudfront": 3, "Google": 22, "Akamai": 45, "CDNetworks": 191, "MaxCDN": 4}}
+{"url": "espncricinfo.com", "object_size": {"Google": 17199, "Akamai": 531957}, "object_count": {"Google": 3, "Akamai": 28}}
+{"url": "txxx.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 342554}, "object_count": {"Amazon Cloudfront": 3, "Google": 12}}
+{"url": "extratorrent.cc", "object_size": {}, "object_count": {}}
+{"url": "hatena.ne.jp", "object_size": {"Amazon Cloudfront": 97625, "Google": 295903, "Akamai": 207738}, "object_count": {"Amazon Cloudfront": 3, "Google": 21, "Akamai": 102}}
+{"url": "microsoft.com", "object_size": {"EdgeCast": 10906, "CDNetworks": 21102, "Akamai": 862924, "Windows Azure": 48942}, "object_count": {"EdgeCast": 1, "CDNetworks": 4, "Akamai": 44, "Windows Azure": 1}}
+{"url": "mashable.com", "object_size": {"MaxCDN": 58613, "EdgeCast": 102910, "Google": 914156, "Akamai": 636614, "Amazon Cloudfront": 22552}, "object_count": {"MaxCDN": 1, "EdgeCast": 2, "Google": 43, "Akamai": 27, "Amazon Cloudfront": 3}}
+{"url": "google.co.jp", "object_size": {"Google": 19568}, "object_count": {"Google": 8}}
+{"url": "detail.tmall.com", "object_size": {}, "object_count": {}}
+{"url": "upornia.com", "object_size": {"Highwinds": 30864, "MaxCDN": 83, "Google": 398988}, "object_count": {"Highwinds": 2, "MaxCDN": 1, "Google": 15}}
+{"url": "163.com", "object_size": {"ChinaCache": 50272, "ChinaNetCenter": 330072}, "object_count": {"ChinaCache": 10, "ChinaNetCenter": 41}}
+{"url": "indiatimes.com", "object_size": {"Level3": 995, "MaxCDN": 420736, "EdgeCast": 40820, "Google": 424425, "Akamai": 1283095}, "object_count": {"Level3": 1, "MaxCDN": 12, "EdgeCast": 1, "Google": 29, "Akamai": 175}}
+{"url": "spiegel.de", "object_size": {"Level3": 779261}, "object_count": {"Level3": 66}}
+{"url": "hao123.com", "object_size": {}, "object_count": {}}
+{"url": "google.com.au", "object_size": {"Google": 16708}, "object_count": {"Google": 7}}
+{"url": "billdesk.com", "object_size": {"Akamai": 13}, "object_count": {"Akamai": 1}}
+{"url": "homedepot.com", "object_size": {"Fastly": 94575, "Google": 32003, "CDNetworks": 297744, "Akamai": 732341, "Amazon Cloudfront": 23952}, "object_count": {"Fastly": 6, "Google": 16, "CDNetworks": 4, "Akamai": 72, "Amazon Cloudfront": 2}}
+{"url": "4shared.com", "object_size": {"Google": 368450}, "object_count": {"Google": 14}}
+{"url": "wikia.com", "object_size": {"EdgeCast": 65876, "Google": 326850, "MaxCDN": 28790, "Fastly": 88730, "Amazon Cloudfront": 38347, "Akamai": 9509}, "object_count": {"EdgeCast": 1, "Google": 11, "MaxCDN": 1, "Fastly": 2, "Amazon Cloudfront": 2, "Akamai": 6}}
+{"url": "myway.com", "object_size": {"Akamai": 64038}, "object_count": {"Akamai": 18}}
+{"url": "google.com.eg", "object_size": {"Google": 11117}, "object_count": {"Google": 6}}
+{"url": "chaturbate.com", "object_size": {"Google": 43117}, "object_count": {"Google": 2}}
+{"url": "google.com.ua", "object_size": {"Google": 66927}, "object_count": {"Google": 6}}
+{"url": "about.com", "object_size": {"Fastly": 1225590, "EdgeCast": 64508, "Google": 372280, "Akamai": 27580, "Amazon Cloudfront": 194656}, "object_count": {"Fastly": 38, "EdgeCast": 1, "Google": 17, "Akamai": 3, "Amazon Cloudfront": 4}}
+{"url": "instagram.com", "object_size": {}, "object_count": {}}
+{"url": "terraclicks.com", "object_size": {"Google": 209936}, "object_count": {"Google": 11}}
+{"url": "blogspot.com.br", "object_size": {"Google": 3170}, "object_count": {"Google": 1}}
+{"url": "thesportbible.com", "object_size": {"MaxCDN": 73985, "Google": 153033, "Akamai": 27460, "Amazon Cloudfront": 32668}, "object_count": {"MaxCDN": 2, "Google": 12, "Akamai": 3, "Amazon Cloudfront": 4}}
+{"url": "pinterest.com", "object_size": {"Akamai": 805635}, "object_count": {"Akamai": 21}}
+{"url": "expedia.com", "object_size": {"Amazon Cloudfront": 87460, "EdgeCast": 219997, "Google": 458682, "Akamai": 846325, "Fastly": 474}, "object_count": {"Amazon Cloudfront": 5, "EdgeCast": 23, "Google": 25, "Akamai": 106, "Fastly": 1}}
+{"url": "tuberel.com", "object_size": {"MaxCDN": 83, "Google": 27615, "Amazon Cloudfront": 3826}, "object_count": {"MaxCDN": 1, "Google": 2, "Amazon Cloudfront": 3}}
+{"url": "chase.com", "object_size": {"Google": 1095}, "object_count": {"Google": 1}}
+{"url": "bhaskar.com", "object_size": {"EdgeCast": 42165, "Google": 1791053, "MaxCDN": 12776, "Highwinds": 51840, "Amazon Cloudfront": 3826, "Akamai": 1419373}, "object_count": {"EdgeCast": 1, "Google": 54, "MaxCDN": 3, "Highwinds": 4, "Amazon Cloudfront": 3, "Akamai": 132}}
+{"url": "paypal.com", "object_size": {"Akamai": 609887}, "object_count": {"Akamai": 27}}
+{"url": "outbrain.com", "object_size": {"MaxCDN": 12746, "Fastly": 25581, "Google": 56324, "Akamai": 263999, "Amazon Cloudfront": 47548}, "object_count": {"MaxCDN": 2, "Fastly": 1, "Google": 20, "Akamai": 35, "Amazon Cloudfront": 3}}
+{"url": "wikimedia.org", "object_size": {}, "object_count": {}}
+{"url": "putlocker.is", "object_size": {}, "object_count": {}}
+{"url": "tianya.cn", "object_size": {"Amazon Cloudfront": 3826}, "object_count": {"Amazon Cloudfront": 3}}
+{"url": "ifeng.com", "object_size": {"Google": 25550, "ChinaCache": 420085, "ChinaNetCenter": 71781}, "object_count": {"Google": 20, "ChinaCache": 95, "ChinaNetCenter": 11}}
+{"url": "facebook.com", "object_size": {}, "object_count": {}}
+{"url": "kickstarter.com", "object_size": {"Fastly": 106207, "Google": 1156, "Amazon Cloudfront": 57344}, "object_count": {"Fastly": 9, "Google": 2, "Amazon Cloudfront": 4}}
+{"url": "amazon.es", "object_size": {"Amazon Cloudfront": 3492799, "Google": 618, "Akamai": 51529}, "object_count": {"Amazon Cloudfront": 177, "Google": 2, "Akamai": 5}}
+{"url": "gmx.net", "object_size": {"Google": 212690, "Akamai": 1115753}, "object_count": {"Google": 9, "Akamai": 169}}
+{"url": "google.hu", "object_size": {"Google": 32582}, "object_count": {"Google": 5}}
+{"url": "cnn.com", "object_size": {"EdgeCast": 7142, "Google": 203407, "Akamai": 494863, "Fastly": 1042756, "Amazon Cloudfront": 389107, "CDNetworks": 109511}, "object_count": {"EdgeCast": 1, "Google": 16, "Akamai": 93, "Fastly": 36, "Amazon Cloudfront": 5, "CDNetworks": 4}}
+{"url": "blogspot.in", "object_size": {"Google": 46577}, "object_count": {"Google": 5}}
+{"url": "google.dz", "object_size": {"Google": 56563}, "object_count": {"Google": 7}}
+{"url": "yelp.com", "object_size": {"Fastly": 1585634, "Google": 122013, "Akamai": 9468}, "object_count": {"Fastly": 51, "Google": 6, "Akamai": 4}}
+{"url": "thatviralfeed.com", "object_size": {"Amazon Cloudfront": 3826, "EdgeCast": 69078, "Google": 476311, "Akamai": 89478, "MaxCDN": 352500}, "object_count": {"Amazon Cloudfront": 3, "EdgeCast": 2, "Google": 25, "Akamai": 37, "MaxCDN": 7}}
+{"url": "life.tw", "object_size": {"Amazon Cloudfront": 3826, "Cloudflare": 30732, "Akamai": 11167, "Google": 383168}, "object_count": {"Amazon Cloudfront": 3, "Cloudflare": 1, "Akamai": 1, "Google": 13}}
+{"url": "onet.pl", "object_size": {"Amazon Cloudfront": 5030, "Google": 17199}, "object_count": {"Amazon Cloudfront": 1, "Google": 3}}
+{"url": "netflix.com", "object_size": {"Google": 1094, "Akamai": 533834}, "object_count": {"Google": 8, "Akamai": 8}}
+{"url": "diply.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 94477, "Akamai": 576457}, "object_count": {"Amazon Cloudfront": 3, "Google": 4, "Akamai": 89}}
+{"url": "google.se", "object_size": {"Google": 168480}, "object_count": {"Google": 7}}
+{"url": "wellsfargo.com", "object_size": {"Akamai": 240726}, "object_count": {"Akamai": 36}}
+{"url": "taringa.net", "object_size": {"Amazon Cloudfront": 3826, "Google": 508304, "Akamai": 24785}, "object_count": {"Amazon Cloudfront": 3, "Google": 22, "Akamai": 22}}
+{"url": "flipkart.com", "object_size": {"Google": 10224, "Akamai": 215120}, "object_count": {"Google": 5, "Akamai": 28}}
+{"url": "tmall.com", "object_size": {"Akamai": 2214}, "object_count": {"Akamai": 1}}
+{"url": "cntv.cn", "object_size": {"Akamai": 247}, "object_count": {"Akamai": 1}}
+{"url": "reimageplus.com", "object_size": {"Highwinds": 143195, "Google": 480814, "Akamai": 7130}, "object_count": {"Highwinds": 23, "Google": 15, "Akamai": 3}}
+{"url": "nbcnews.com", "object_size": {"EdgeCast": 249845, "Google": 324805, "Fastly": 324250, "MaxCDN": 200827, "Akamai": 2787902, "Cloudflare": 14658}, "object_count": {"EdgeCast": 4, "Google": 10, "Fastly": 8, "MaxCDN": 4, "Akamai": 109, "Cloudflare": 2}}
+{"url": "badoo.com", "object_size": {}, "object_count": {}}
+{"url": "kapanlagi.com", "object_size": {"Level3": 995, "Amazon Cloudfront": 3826, "EdgeCast": 32495, "Google": 665750, "Akamai": 66881}, "object_count": {"Level3": 1, "Amazon Cloudfront": 3, "EdgeCast": 1, "Google": 50, "Akamai": 4}}
+{"url": "haber7.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 538966, "Akamai": 510, "MaxCDN": 19175}, "object_count": {"Amazon Cloudfront": 3, "Google": 24, "Akamai": 2, "MaxCDN": 3}}
+{"url": "dell.com", "object_size": {"Akamai": 213270}, "object_count": {"Akamai": 45}}
+{"url": "yandex.ru", "object_size": {}, "object_count": {}}
+{"url": "conservativetribune.com", "object_size": {"EdgeCast": 136278, "Google": 367925, "Highwinds": 33426, "Fastly": 76053, "Amazon Cloudfront": 3826, "Akamai": 125286}, "object_count": {"EdgeCast": 2, "Google": 23, "Highwinds": 2, "Fastly": 5, "Amazon Cloudfront": 3, "Akamai": 31}}
+{"url": "kinopoisk.ru", "object_size": {"Google": 108328, "Akamai": 333}, "object_count": {"Google": 23, "Akamai": 1}}
+{"url": "playstation.com", "object_size": {"EdgeCast": 246748, "Google": 278, "Akamai": 3974889}, "object_count": {"EdgeCast": 7, "Google": 3, "Akamai": 204}}
+{"url": "google.ca", "object_size": {"Google": 77637}, "object_count": {"Google": 7}}
+{"url": "fbcdn.net", "object_size": {}, "object_count": {}}
+{"url": "wordreference.com", "object_size": {"Google": 8136}, "object_count": {"Google": 1}}
+{"url": "icloud.com", "object_size": {"Akamai": 213367}, "object_count": {"Akamai": 12}}
+{"url": "whatsapp.com", "object_size": {"Google": 27615}, "object_count": {"Google": 2}}
+{"url": "cnet.com", "object_size": {"Google": 161252, "Akamai": 920670}, "object_count": {"Google": 3, "Akamai": 40}}
+{"url": "microsoftonline.com", "object_size": {}, "object_count": {}}
+{"url": "office.com", "object_size": {"Akamai": 102582}, "object_count": {"Akamai": 3}}
+{"url": "youporn.com", "object_size": {"EdgeCast": 27376, "Google": 21916, "Reflected Networks": 148457}, "object_count": {"EdgeCast": 3, "Google": 3, "Reflected Networks": 23}}
+{"url": "sohu.com", "object_size": {"Cloudflare": 10840, "EdgeCast": 188646, "Google": 517175, "Akamai": 65455}, "object_count": {"Cloudflare": 3, "EdgeCast": 45, "Google": 26, "Akamai": 111}}
+{"url": "elmogaz.com", "object_size": {"MaxCDN": 92629, "Amazon Cloudfront": 27342, "Cloudflare": 12490, "Akamai": 31624, "Google": 1504220}, "object_count": {"MaxCDN": 1, "Amazon Cloudfront": 4, "Cloudflare": 1, "Akamai": 1, "Google": 67}}
+{"url": "google.ro", "object_size": {"Google": 270595}, "object_count": {"Google": 7}}
+{"url": "media.tumblr.com", "object_size": {"Amazon Cloudfront": 243}, "object_count": {"Amazon Cloudfront": 1}}
+{"url": "openload.co", "object_size": {"Cloudflare": 5032, "Google": 193536}, "object_count": {"Cloudflare": 1, "Google": 15}}
+{"url": "google.co.il", "object_size": {"Google": 82117}, "object_count": {"Google": 5}}
+{"url": "evernote.com", "object_size": {"Amazon Cloudfront": 268, "Google": 36141}, "object_count": {"Amazon Cloudfront": 2, "Google": 6}}
+{"url": "espn.go.com", "object_size": {"Amazon Cloudfront": 73332, "EdgeCast": 21, "Google": 200807, "Akamai": 461401}, "object_count": {"Amazon Cloudfront": 1, "EdgeCast": 1, "Google": 6, "Akamai": 22}}
+{"url": "stackexchange.com", "object_size": {"EdgeCast": 31407, "Google": 56559, "Akamai": 2220}, "object_count": {"EdgeCast": 21, "Google": 3, "Akamai": 2}}
+{"url": "quora.com", "object_size": {"Google": 124654}, "object_count": {"Google": 11}}
+{"url": "blackboard.com", "object_size": {"Limelight": 833114, "MaxCDN": 470596, "Google": 442733, "Akamai": 27520, "Amazon Cloudfront": 22796}, "object_count": {"Limelight": 24, "MaxCDN": 1, "Google": 22, "Akamai": 4, "Amazon Cloudfront": 2}}
+{"url": "huffingtonpost.com", "object_size": {"Amazon Cloudfront": 106654, "EdgeCast": 10285, "Google": 54091, "Akamai": 532869, "Fastly": 9}, "object_count": {"Amazon Cloudfront": 5, "EdgeCast": 1, "Google": 7, "Akamai": 54, "Fastly": 3}}
+{"url": "jabong.com", "object_size": {"Fastly": 22676, "Google": 186924, "Akamai": 682869, "Amazon Cloudfront": 165857}, "object_count": {"Fastly": 1, "Google": 17, "Akamai": 27, "Amazon Cloudfront": 7}}
+{"url": "steamcommunity.com", "object_size": {"Google": 27580, "Akamai": 487717}, "object_count": {"Google": 1, "Akamai": 45}}
+{"url": "vice.com", "object_size": {"Amazon Cloudfront": 24243, "Google": 115504, "Akamai": 15998, "Fastly": 232570}, "object_count": {"Amazon Cloudfront": 6, "Google": 11, "Akamai": 5, "Fastly": 4}}
+{"url": "realtor.com", "object_size": {"EdgeCast": 880628, "Google": 207410, "Amazon Cloudfront": 155677, "Fastly": 415268, "MaxCDN": 12776, "Akamai": 90773}, "object_count": {"EdgeCast": 20, "Google": 15, "Amazon Cloudfront": 7, "Fastly": 12, "MaxCDN": 3, "Akamai": 9}}
+{"url": "adexc.net", "object_size": {"Google": 88149}, "object_count": {"Google": 8}}
+{"url": "google.pl", "object_size": {"Google": 49357}, "object_count": {"Google": 6}}
+{"url": "lowes.com", "object_size": {"Google": 194, "Akamai": 976777}, "object_count": {"Google": 1, "Akamai": 92}}
+{"url": "wix.com", "object_size": {"MaxCDN": 62195, "Google": 153767, "Akamai": 671724, "Amazon Cloudfront": 17281}, "object_count": {"MaxCDN": 2, "Google": 8, "Akamai": 43, "Amazon Cloudfront": 1}}
+{"url": "avito.ru", "object_size": {"Google": 9692}, "object_count": {"Google": 9}}
+{"url": "liputan6.com", "object_size": {"Amazon Cloudfront": 48794, "EdgeCast": 15503, "Google": 150872, "Akamai": 477706}, "object_count": {"Amazon Cloudfront": 4, "EdgeCast": 1, "Google": 21, "Akamai": 54}}
+{"url": "hatenablog.com", "object_size": {"Cloudflare": 2210, "Google": 469989, "CDNetworks": 9653, "Akamai": 587686}, "object_count": {"Cloudflare": 2, "Google": 24, "CDNetworks": 2, "Akamai": 49}}
+{"url": "google.co.id", "object_size": {"Google": 21810}, "object_count": {"Google": 7}}
+{"url": "goal.com", "object_size": {"Akamai": 20829}, "object_count": {"Akamai": 1}}
+{"url": "wetransfer.com", "object_size": {"Fastly": 4921, "Google": 23272, "Akamai": 7909}, "object_count": {"Fastly": 1, "Google": 3, "Akamai": 2}}
+{"url": "roblox.com", "object_size": {"Google": 364377, "Akamai": 1495, "Windows Azure": 15461}, "object_count": {"Google": 22, "Akamai": 1, "Windows Azure": 2}}
+{"url": "southwest.com", "object_size": {"Akamai": 604462}, "object_count": {"Akamai": 33}}
+{"url": "slickdeals.net", "object_size": {"Google": 2270626, "Highwinds": 42, "Fastly": 39005, "Amazon Cloudfront": 25187, "Akamai": 73105, "Cloudflare": 191488}, "object_count": {"Google": 110, "Highwinds": 1, "Fastly": 1, "Amazon Cloudfront": 3, "Akamai": 9, "Cloudflare": 5}}
+{"url": "tripadvisor.com", "object_size": {"Google": 7189, "Akamai": 366246}, "object_count": {"Google": 3, "Akamai": 38}}
+{"url": "t.co", "object_size": {}, "object_count": {}}
+{"url": "google.ch", "object_size": {"Google": 11516}, "object_count": {"Google": 7}}
+{"url": "xywy.com", "object_size": {}, "object_count": {}}
+{"url": "google.cz", "object_size": {"Google": 114382}, "object_count": {"Google": 6}}
+{"url": "avg.com", "object_size": {"MaxCDN": 14532, "Google": 39998, "Akamai": 498438, "Fastly": 12184}, "object_count": {"MaxCDN": 2, "Google": 14, "Akamai": 49, "Fastly": 1}}
+{"url": "t-online.de", "object_size": {"Highwinds": 19086, "EdgeCast": 10508, "Google": 106912, "Akamai": 39435}, "object_count": {"Highwinds": 5, "EdgeCast": 1, "Google": 9, "Akamai": 4}}
+{"url": "telegraph.co.uk", "object_size": {"EdgeCast": 65004, "Google": 205110, "MaxCDN": 220690, "Fastly": 288827, "Amazon Cloudfront": 79559, "Akamai": 3183515}, "object_count": {"EdgeCast": 1, "Google": 7, "MaxCDN": 2, "Fastly": 2, "Amazon Cloudfront": 6, "Akamai": 182}}
+{"url": "bidverdrd.com", "object_size": {}, "object_count": {}}
+{"url": "sourceforge.net", "object_size": {"Amazon Cloudfront": 61557, "Google": 21174, "Akamai": 3035}, "object_count": {"Amazon Cloudfront": 2, "Google": 3, "Akamai": 2}}
+{"url": "ebay.de", "object_size": {"Google": 469074, "Akamai": 1551254}, "object_count": {"Google": 12, "Akamai": 167}}
+{"url": "redtube.com", "object_size": {"EdgeCast": 99527, "Reflected Networks": 287471, "Google": 27650}, "object_count": {"EdgeCast": 2, "Reflected Networks": 38, "Google": 3}}
+{"url": "ok.ru", "object_size": {}, "object_count": {}}
+{"url": "videomega.tv", "object_size": {"Google": 396557}, "object_count": {"Google": 18}}
+{"url": "google.com.mx", "object_size": {"Google": 47651}, "object_count": {"Google": 7}}
+{"url": "spotify.com", "object_size": {"Fastly": 269402, "EdgeCast": 12800, "Google": 14187, "Amazon Cloudfront": 126080}, "object_count": {"Fastly": 23, "EdgeCast": 1, "Google": 11, "Amazon Cloudfront": 4}}
+{"url": "soso.com", "object_size": {}, "object_count": {}}
+{"url": "google.gr", "object_size": {"Google": 121137}, "object_count": {"Google": 6}}
+{"url": "target.com", "object_size": {"Google": 157601, "Akamai": 344700}, "object_count": {"Google": 2, "Akamai": 16}}
+{"url": "weather.com", "object_size": {"Amazon Cloudfront": 14663, "EdgeCast": 84611, "Google": 80929, "Akamai": 193404}, "object_count": {"Amazon Cloudfront": 2, "EdgeCast": 8, "Google": 7, "Akamai": 15}}
+{"url": "github.io", "object_size": {"Fastly": 661083, "Google": 1121}, "object_count": {"Fastly": 26, "Google": 1}}
+{"url": "kohls.com", "object_size": {"Akamai": 423783}, "object_count": {"Akamai": 39}}
+{"url": "thepiratebay.org", "object_size": {}, "object_count": {}}
+{"url": "vimeo.com", "object_size": {"Fastly": 430666, "Google": 15335, "Akamai": 7909, "Amazon Cloudfront": 11151}, "object_count": {"Fastly": 40, "Google": 10, "Akamai": 2, "Amazon Cloudfront": 1}}
+{"url": "icicibank.com", "object_size": {"Amazon Cloudfront": 18077, "Google": 100118, "Akamai": 641152}, "object_count": {"Amazon Cloudfront": 1, "Google": 8, "Akamai": 48}}
+{"url": "slideshare.net", "object_size": {"Google": 139773, "Akamai": 270536}, "object_count": {"Google": 15, "Akamai": 19}}
+{"url": "popcash.net", "object_size": {"Google": 88144}, "object_count": {"Google": 9}}
+{"url": "buzzfeed.com", "object_size": {"Fastly": 2384507, "EdgeCast": 12259, "Google": 856072, "Akamai": 85925, "Amazon Cloudfront": 86}, "object_count": {"Fastly": 114, "EdgeCast": 1, "Google": 17, "Akamai": 3, "Amazon Cloudfront": 2}}
+{"url": "bbc.com", "object_size": {"Fastly": 270917, "Google": 471933, "Akamai": 592386}, "object_count": {"Fastly": 7, "Google": 15, "Akamai": 57}}
+{"url": "taboola.com", "object_size": {"EdgeCast": 94599, "Google": 54095, "Amazon Cloudfront": 10423, "Akamai": 25808, "KeyCDN": 101833, "Cloudflare": 1691}, "object_count": {"EdgeCast": 1, "Google": 15, "Amazon Cloudfront": 1, "Akamai": 2, "KeyCDN": 2, "Cloudflare": 1}}
+{"url": "amazon.fr", "object_size": {"Amazon Cloudfront": 2584902, "Google": 42, "Akamai": 44623}, "object_count": {"Amazon Cloudfront": 177, "Google": 1, "Akamai": 5}}
+{"url": "olx.pl", "object_size": {"Amazon Cloudfront": 61680, "EdgeCast": 160880, "Google": 293617, "Akamai": 243502, "MaxCDN": 7502}, "object_count": {"Amazon Cloudfront": 1, "EdgeCast": 1, "Google": 26, "Akamai": 17, "MaxCDN": 1}}
+{"url": "friv.com", "object_size": {}, "object_count": {}}
+{"url": "wordpress.org", "object_size": {"EdgeCast": 434772, "Google": 717502, "Akamai": 7909}, "object_count": {"EdgeCast": 12, "Google": 15, "Akamai": 2}}
+{"url": "indeed.com", "object_size": {"Google": 48114, "Akamai": 5619}, "object_count": {"Google": 10, "Akamai": 2}}
+{"url": "google.no", "object_size": {"Google": 132254}, "object_count": {"Google": 7}}
+{"url": "wp.pl", "object_size": {"Fastly": 4953, "Google": 1139759, "Akamai": 856, "Amazon Cloudfront": 42}, "object_count": {"Fastly": 1, "Google": 79, "Akamai": 2, "Amazon Cloudfront": 1}}
+{"url": "giphy.com", "object_size": {"Highwinds": 1372422, "Amazon Cloudfront": 5543, "Google": 269127, "Akamai": 74284, "Fastly": 22676}, "object_count": {"Highwinds": 97, "Amazon Cloudfront": 4, "Google": 23, "Akamai": 6, "Fastly": 1}}
+{"url": "okezone.com", "object_size": {"Amazon Cloudfront": 3868, "Google": 1039419, "Akamai": 9885}, "object_count": {"Amazon Cloudfront": 4, "Google": 56, "Akamai": 8}}
+{"url": "alipay.com", "object_size": {"Akamai": 11781}, "object_count": {"Akamai": 2}}
+{"url": "sharepoint.com", "object_size": {"Amazon Cloudfront": 27740, "EdgeCast": 106508, "Google": 1071, "Akamai": 1954491, "Windows Azure": 7767}, "object_count": {"Amazon Cloudfront": 3, "EdgeCast": 1, "Google": 2, "Akamai": 61, "Windows Azure": 1}}
+{"url": "thesaurus.com", "object_size": {"Cloudflare": 15184, "Google": 1838336, "Akamai": 657294}, "object_count": {"Cloudflare": 1, "Google": 47, "Akamai": 63}}
+{"url": "samsung.com", "object_size": {"EdgeCast": 563441, "Google": 9642, "Akamai": 1326519}, "object_count": {"EdgeCast": 15, "Google": 6, "Akamai": 67}}
+{"url": "google.co.ve", "object_size": {"Google": 19561}, "object_count": {"Google": 8}}
+{"url": "ign.com", "object_size": {"Amazon Cloudfront": 133997, "Google": 893976, "Akamai": 782611}, "object_count": {"Amazon Cloudfront": 11, "Google": 48, "Akamai": 77}}
+{"url": "so.com", "object_size": {}, "object_count": {}}
+{"url": "bet365.com", "object_size": {}, "object_count": {}}
+{"url": "tribunnews.com", "object_size": {"Amazon Cloudfront": 799253, "Google": 2447103, "Akamai": 87780, "MaxCDN": 111054}, "object_count": {"Amazon Cloudfront": 122, "Google": 82, "Akamai": 27, "MaxCDN": 2}}
+{"url": "google.com.hk", "object_size": {"Google": 52123}, "object_count": {"Google": 9}}
+{"url": "google.co.in", "object_size": {"Google": 13111}, "object_count": {"Google": 5}}
+{"url": "google.fr", "object_size": {"Google": 38129}, "object_count": {"Google": 7}}
+{"url": "marca.com", "object_size": {"EdgeCast": 369466, "Google": 4899584, "MaxCDN": 371295, "Highwinds": 720, "Fastly": 29885, "Amazon Cloudfront": 9867, "Akamai": 541766, "Windows Azure": 92629}, "object_count": {"EdgeCast": 7, "Google": 125, "MaxCDN": 7, "Highwinds": 1, "Fastly": 1, "Amazon Cloudfront": 7, "Akamai": 11, "Windows Azure": 1}}
+{"url": "mediafire.com", "object_size": {"Google": 34529, "Akamai": 7909}, "object_count": {"Google": 4, "Akamai": 2}}
+{"url": "google.co.th", "object_size": {"Google": 37177}, "object_count": {"Google": 6}}
+{"url": "hm.com", "object_size": {"Akamai": 245549}, "object_count": {"Akamai": 8}}
+{"url": "ettoday.net", "object_size": {"Cloudflare": 1300, "Fastly": 866, "Google": 799671, "Akamai": 1538, "Amazon Cloudfront": 13650}, "object_count": {"Cloudflare": 1, "Fastly": 1, "Google": 54, "Akamai": 2, "Amazon Cloudfront": 9}}
+{"url": "craigslist.org", "object_size": {}, "object_count": {}}
+{"url": "enet.com.cn", "object_size": {"Google": 492274}, "object_count": {"Google": 9}}
+{"url": "twitter.com", "object_size": {}, "object_count": {}}
+{"url": "mercadolivre.com.br", "object_size": {"Google": 444, "Akamai": 83760}, "object_count": {"Google": 3, "Akamai": 13}}
+{"url": "uptodown.com", "object_size": {"Amazon Cloudfront": 3826, "EdgeCast": 180152, "Google": 27980, "Akamai": 400545}, "object_count": {"Amazon Cloudfront": 3, "EdgeCast": 21, "Google": 3, "Akamai": 14}}
+{"url": "hp.com", "object_size": {"Level3": 139938, "EdgeCast": 245724, "Google": 1342569, "CDNetworks": 152275, "Akamai": 181344}, "object_count": {"Level3": 19, "EdgeCast": 1, "Google": 25, "CDNetworks": 4, "Akamai": 13}}
+{"url": "usaa.com", "object_size": {"Google": 9243, "Akamai": 1284590}, "object_count": {"Google": 10, "Akamai": 87}}
+{"url": "walmart.com", "object_size": {"Google": 272689, "CDNetworks": 153879, "Akamai": 933375}, "object_count": {"Google": 8, "CDNetworks": 4, "Akamai": 53}}
+{"url": "ask.com", "object_size": {"EdgeCast": 6719, "Google": 68283, "Akamai": 85900}, "object_count": {"EdgeCast": 1, "Google": 4, "Akamai": 7}}
+{"url": "kinogo.co", "object_size": {}, "object_count": {}}
+{"url": "web.de", "object_size": {"Akamai": 381210}, "object_count": {"Akamai": 64}}
+{"url": "gap.com", "object_size": {"Amazon Cloudfront": 22503, "Google": 79526, "Akamai": 515671}, "object_count": {"Amazon Cloudfront": 1, "Google": 6, "Akamai": 50}}
+{"url": "dailymail.co.uk", "object_size": {"Fastly": 30756, "EdgeCast": 107226, "Google": 234942, "Akamai": 5403034, "Amazon Cloudfront": 32643}, "object_count": {"Fastly": 1, "EdgeCast": 2, "Google": 14, "Akamai": 408, "Amazon Cloudfront": 2}}
+{"url": "xhamster.com", "object_size": {"Google": 27580}, "object_count": {"Google": 1}}
+{"url": "zendesk.com", "object_size": {"Amazon Cloudfront": 1022233, "EdgeCast": 10575, "Google": 17078, "Akamai": 15849, "Fastly": 29744}, "object_count": {"Amazon Cloudfront": 45, "EdgeCast": 1, "Google": 14, "Akamai": 3, "Fastly": 4}}
+{"url": "mailchimp.com", "object_size": {"Highwinds": 415, "Google": 69997, "Akamai": 384248}, "object_count": {"Highwinds": 2, "Google": 6, "Akamai": 22}}
+{"url": "blastingnews.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 115969, "Akamai": 98555}, "object_count": {"Amazon Cloudfront": 3, "Google": 13, "Akamai": 10}}
+{"url": "apple.com", "object_size": {"Akamai": 1473028}, "object_count": {"Akamai": 45}}
+{"url": "secureserver.net", "object_size": {}, "object_count": {}}
+{"url": "kaskus.co.id", "object_size": {"Google": 626168, "MaxCDN": 95957, "Highwinds": 500432, "Amazon Cloudfront": 3826, "Akamai": 469021, "Cloudflare": 87910}, "object_count": {"Google": 26, "MaxCDN": 1, "Highwinds": 50, "Amazon Cloudfront": 3, "Akamai": 20, "Cloudflare": 1}}
+{"url": "sberbank.ru", "object_size": {"Google": 598220, "Akamai": 1495}, "object_count": {"Google": 11, "Akamai": 1}}
+{"url": "nba.com", "object_size": {"Amazon Cloudfront": 327445, "Google": 1263465, "Akamai": 1300449, "Fastly": 1592976}, "object_count": {"Amazon Cloudfront": 7, "Google": 59, "Akamai": 123, "Fastly": 16}}
+{"url": "51yes.com", "object_size": {}, "object_count": {}}
+{"url": "steampowered.com", "object_size": {"Google": 27580, "Akamai": 772439}, "object_count": {"Google": 1, "Akamai": 111}}
+{"url": "google.com.sa", "object_size": {"Google": 53372}, "object_count": {"Google": 6}}
+{"url": "adplxmd.com", "object_size": {}, "object_count": {}}
+{"url": "wordpress.com", "object_size": {"Google": 1617}, "object_count": {"Google": 2}}
+{"url": "google.com.ng", "object_size": {"Google": 24127}, "object_count": {"Google": 5}}
+{"url": "google.ae", "object_size": {"Google": 13464}, "object_count": {"Google": 5}}
+{"url": "rambler.ru", "object_size": {"Google": 178477, "Akamai": 69011}, "object_count": {"Google": 16, "Akamai": 16}}
+{"url": "amazon.com", "object_size": {"Amazon Cloudfront": 1172988, "Akamai": 67523}, "object_count": {"Amazon Cloudfront": 45, "Akamai": 4}}
+{"url": "51.la", "object_size": {}, "object_count": {}}
+{"url": "amazon.co.uk", "object_size": {"Amazon Cloudfront": 1762577, "Akamai": 8839}, "object_count": {"Amazon Cloudfront": 164, "Akamai": 1}}
+{"url": "siteadvisor.com", "object_size": {"MaxCDN": 7839, "Akamai": 14328}, "object_count": {"MaxCDN": 1, "Akamai": 2}}
+{"url": "zol.com.cn", "object_size": {"Google": 395877}, "object_count": {"Google": 17}}
+{"url": "feedly.com", "object_size": {"Amazon Cloudfront": 551, "Google": 235141}, "object_count": {"Amazon Cloudfront": 1, "Google": 10}}
+{"url": "files.wordpress.com", "object_size": {"Google": 21370}, "object_count": {"Google": 7}}
+{"url": "torrentz.eu", "object_size": {"Google": 31648}, "object_count": {"Google": 1}}
+{"url": "goodreads.com", "object_size": {"Amazon Cloudfront": 1874319, "Google": 227423, "Akamai": 13003}, "object_count": {"Amazon Cloudfront": 86, "Google": 11, "Akamai": 2}}
+{"url": "ups.com", "object_size": {"Akamai": 35203}, "object_count": {"Akamai": 10}}
+{"url": "daikynguyenvn.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 1288130}, "object_count": {"Amazon Cloudfront": 3, "Google": 33}}
+{"url": "pornhub.com", "object_size": {"EdgeCast": 14877, "Reflected Networks": 12737, "SwiftCDN": 1882, "Google": 28146}, "object_count": {"EdgeCast": 2, "Reflected Networks": 5, "SwiftCDN": 1, "Google": 4}}
+{"url": "google.com.pk", "object_size": {"Google": 18515}, "object_count": {"Google": 7}}
+{"url": "amazon.in", "object_size": {"Amazon Cloudfront": 2497111, "Google": 402, "Akamai": 154}, "object_count": {"Amazon Cloudfront": 223, "Google": 3, "Akamai": 1}}
+{"url": "kat.cr", "object_size": {}, "object_count": {}}
+{"url": "rdsa2013.com", "object_size": {"Google": 47681}, "object_count": {"Google": 4}}
+{"url": "blogfa.com", "object_size": {}, "object_count": {}}
+{"url": "ebay.co.uk", "object_size": {"Google": 363448, "Akamai": 1478977}, "object_count": {"Google": 11, "Akamai": 174}}
+{"url": "bing.com", "object_size": {}, "object_count": {}}
+{"url": "imdb.com", "object_size": {"Amazon Cloudfront": 23904, "EdgeCast": 553736, "Google": 31835, "Akamai": 368067}, "object_count": {"Amazon Cloudfront": 3, "EdgeCast": 35, "Google": 3, "Akamai": 68}}
+{"url": "google.pt", "object_size": {"Google": 10826}, "object_count": {"Google": 5}}
+{"url": "bongacams.com", "object_size": {"Amazon Cloudfront": 3768, "Google": 27564}, "object_count": {"Amazon Cloudfront": 2, "Google": 3}}
+{"url": "adnetworkperformance.com", "object_size": {}, "object_count": {}}
+{"url": "tudou.com", "object_size": {}, "object_count": {}}
+{"url": "zillow.com", "object_size": {"Amazon Cloudfront": 2223754, "Google": 108601, "Akamai": 1495}, "object_count": {"Amazon Cloudfront": 30, "Google": 9, "Akamai": 1}}
+{"url": "etsy.com", "object_size": {"Fastly": 455249, "Google": 96539, "Akamai": 797401}, "object_count": {"Fastly": 41, "Google": 8, "Akamai": 20}}
+{"url": "naver.jp", "object_size": {"Google": 70732, "Yahoo": 58081, "Akamai": 40269}, "object_count": {"Google": 4, "Yahoo": 7, "Akamai": 25}}
+{"url": "freepik.com", "object_size": {"EdgeCast": 1271710, "Google": 736224, "MaxCDN": 43, "Highwinds": 1931, "Panther": 6723, "Amazon Cloudfront": 6637}, "object_count": {"EdgeCast": 57, "Google": 26, "MaxCDN": 1, "Highwinds": 2, "Panther": 1, "Amazon Cloudfront": 1}}
+{"url": "atlassian.net", "object_size": {"Amazon Cloudfront": 14929, "EdgeCast": 10637, "Google": 35500, "Akamai": 42, "Fastly": 7945}, "object_count": {"Amazon Cloudfront": 1, "EdgeCast": 1, "Google": 15, "Akamai": 1, "Fastly": 1}}
+{"url": "youtube.com", "object_size": {"Google": 450416}, "object_count": {"Google": 50}}
+{"url": "google.de", "object_size": {"Google": 51282}, "object_count": {"Google": 7}}
+{"url": "bloomberg.com", "object_size": {"Amazon Cloudfront": 66316, "EdgeCast": 185912, "Google": 77804, "Akamai": 2418552, "Fastly": 62993}, "object_count": {"Amazon Cloudfront": 6, "EdgeCast": 1, "Google": 9, "Akamai": 45, "Fastly": 6}}
+{"url": "addthis.com", "object_size": {"Amazon Cloudfront": 24387, "Google": 86291, "Akamai": 5635}, "object_count": {"Amazon Cloudfront": 1, "Google": 7, "Akamai": 1}}
+{"url": "adobe.com", "object_size": {"CDNetworks": 180225, "Akamai": 231840}, "object_count": {"CDNetworks": 4, "Akamai": 24}}
+{"url": "gfycat.com", "object_size": {"MaxCDN": 26059, "Google": 1121, "Akamai": 7874, "Amazon Cloudfront": 3725}, "object_count": {"MaxCDN": 2, "Google": 1, "Akamai": 1, "Amazon Cloudfront": 1}}
+{"url": "gearbest.com", "object_size": {"Fastly": 62370, "Google": 150586, "Akamai": 536088, "Amazon Cloudfront": 1052935}, "object_count": {"Fastly": 5, "Google": 14, "Akamai": 55, "Amazon Cloudfront": 56}}
+{"url": "ck101.com", "object_size": {"Level3": 995, "Amazon Cloudfront": 30134, "Google": 542917, "Cloudflare": 1300, "Akamai": 40146}, "object_count": {"Level3": 1, "Amazon Cloudfront": 10, "Google": 29, "Cloudflare": 1, "Akamai": 13}}
+{"url": "battle.net", "object_size": {"Google": 81340}, "object_count": {"Google": 9}}
+{"url": "airbnb.com", "object_size": {"Google": 463125, "Akamai": 867939}, "object_count": {"Google": 21, "Akamai": 33}}
+{"url": "google.com.ar", "object_size": {"Google": 75957}, "object_count": {"Google": 7}}
+{"url": "bestbuy.com", "object_size": {"Akamai": 629089}, "object_count": {"Akamai": 58}}
+{"url": "google.es", "object_size": {"Google": 13831}, "object_count": {"Google": 7}}
+{"url": "yahoo.com", "object_size": {"Amazon Cloudfront": 336, "Google": 618, "Akamai": 49}, "object_count": {"Amazon Cloudfront": 8, "Google": 2, "Akamai": 1}}
+{"url": "globo.com", "object_size": {"Fastly": 251576, "EdgeCast": 22385, "Google": 48885, "Akamai": 43}, "object_count": {"Fastly": 4, "EdgeCast": 5, "Google": 7, "Akamai": 1}}
+{"url": "ebay.com", "object_size": {"Google": 299099, "Akamai": 1219416}, "object_count": {"Google": 11, "Akamai": 156}}
+{"url": "mercadolibre.com.ar", "object_size": {"Google": 70, "Akamai": 326232}, "object_count": {"Google": 2, "Akamai": 14}}
+{"url": "dropbox.com", "object_size": {"Google": 212101}, "object_count": {"Google": 7}}
+{"url": "rediff.com", "object_size": {"Akamai": 69379}, "object_count": {"Akamai": 16}}
+{"url": "baidu.com", "object_size": {}, "object_count": {}}
+{"url": "yahoo.co.jp", "object_size": {"Yahoo": 267088, "Akamai": 6144}, "object_count": {"Yahoo": 51, "Akamai": 1}}
+{"url": "elpais.com", "object_size": {"Fastly": 47868, "Google": 1879440, "Akamai": 950610}, "object_count": {"Fastly": 5, "Google": 60, "Akamai": 163}}
+{"url": "archive.org", "object_size": {}, "object_count": {}}
+{"url": "detik.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 517012, "Akamai": 1495}, "object_count": {"Amazon Cloudfront": 3, "Google": 56, "Akamai": 1}}
+{"url": "yesky.com", "object_size": {"Amazon Cloudfront": 3826}, "object_count": {"Amazon Cloudfront": 3}}
+{"url": "google.cl", "object_size": {"Google": 41305}, "object_count": {"Google": 7}}
+{"url": "softonic.com", "object_size": {"EdgeCast": 2643, "Google": 193622, "MaxCDN": 12776, "Fastly": 22676, "Amazon Cloudfront": 197885, "Akamai": 1495}, "object_count": {"EdgeCast": 1, "Google": 14, "MaxCDN": 3, "Fastly": 1, "Amazon Cloudfront": 14, "Akamai": 1}}
+{"url": "amazonaws.com", "object_size": {"Highwinds": 42}, "object_count": {"Highwinds": 1}}
+{"url": "hotstar.com", "object_size": {"Google": 239333, "Akamai": 730276}, "object_count": {"Google": 11, "Akamai": 25}}
+{"url": "live.com", "object_size": {"Akamai": 43312}, "object_count": {"Akamai": 5}}
+{"url": "upwork.com", "object_size": {"EdgeCast": 10707, "Google": 95628, "Highwinds": 409, "Fastly": 7393, "Amazon Cloudfront": 15013, "Akamai": 28717, "Cloudflare": 4966}, "object_count": {"EdgeCast": 1, "Google": 13, "Highwinds": 2, "Fastly": 1, "Amazon Cloudfront": 3, "Akamai": 3, "Cloudflare": 3}}
+{"url": "theverge.com", "object_size": {"Fastly": 1317556, "EdgeCast": 14394, "Google": 388468, "Akamai": 532501, "Amazon Cloudfront": 41377}, "object_count": {"Fastly": 36, "EdgeCast": 1, "Google": 21, "Akamai": 14, "Amazon Cloudfront": 3}}
+{"url": "businessinsider.com", "object_size": {"EdgeCast": 9497, "Google": 815823, "MaxCDN": 106644, "Highwinds": 754, "Fastly": 1706242, "Amazon Cloudfront": 34997, "Akamai": 973758}, "object_count": {"EdgeCast": 2, "Google": 26, "MaxCDN": 4, "Highwinds": 1, "Fastly": 78, "Amazon Cloudfront": 4, "Akamai": 40}}
+{"url": "kompas.com", "object_size": {"Limelight": 61763, "Amazon Cloudfront": 45414, "Google": 1576998, "Akamai": 117170, "Fastly": 3492}, "object_count": {"Limelight": 2, "Amazon Cloudfront": 8, "Google": 65, "Akamai": 12, "Fastly": 1}}
+{"url": "bild.de", "object_size": {"Highwinds": 3794, "EdgeCast": 331412, "Google": 94716, "Akamai": 2380502}, "object_count": {"Highwinds": 1, "EdgeCast": 14, "Google": 8, "Akamai": 172}}
+{"url": "libero.it", "object_size": {"Amazon Cloudfront": 2978, "Google": 999210, "Akamai": 47189}, "object_count": {"Amazon Cloudfront": 1, "Google": 23, "Akamai": 11}}
+{"url": "medium.com", "object_size": {"Amazon Cloudfront": 27819, "Google": 43117}, "object_count": {"Amazon Cloudfront": 24, "Google": 2}}
+{"url": "caijing.com.cn", "object_size": {"Google": 27981, "CDNetworks": 165905}, "object_count": {"Google": 3, "CDNetworks": 36}}
+{"url": "39.net", "object_size": {"Google": 27615}, "object_count": {"Google": 2}}
+{"url": "slack.com", "object_size": {"Fastly": 246925, "Google": 3202, "Akamai": 30364}, "object_count": {"Fastly": 21, "Google": 6, "Akamai": 3}}
+{"url": "youth.cn", "object_size": {"Amazon Cloudfront": 3826, "ChinaCache": 335086}, "object_count": {"Amazon Cloudfront": 3, "ChinaCache": 75}}
+{"url": "google.be", "object_size": {"Google": 40433}, "object_count": {"Google": 8}}
+{"url": "zoho.com", "object_size": {"Google": 158738}, "object_count": {"Google": 13}}
+{"url": "youm7.com", "object_size": {"Amazon Cloudfront": 3868, "Cloudflare": 307880, "Google": 781490}, "object_count": {"Amazon Cloudfront": 4, "Cloudflare": 13, "Google": 67}}
+{"url": "foxnews.com", "object_size": {"Amazon Cloudfront": 40155, "EdgeCast": 83224, "Google": 256470, "Akamai": 1137565, "Fastly": 29885}, "object_count": {"Amazon Cloudfront": 6, "EdgeCast": 1, "Google": 6, "Akamai": 92, "Fastly": 1}}
+{"url": "qq.com", "object_size": {"CDNetworks": 6810, "Akamai": 54015}, "object_count": {"CDNetworks": 2, "Akamai": 5}}
+{"url": "comcast.net", "object_size": {"Google": 19194, "Akamai": 1511200}, "object_count": {"Google": 11, "Akamai": 74}}
+{"url": "citi.com", "object_size": {"Google": 311765, "Akamai": 1106151}, "object_count": {"Google": 13, "Akamai": 63}}
+{"url": "google.com.sg", "object_size": {"Google": 80049}, "object_count": {"Google": 5}}
+{"url": "groupon.com", "object_size": {"Google": 27580, "Akamai": 387458}, "object_count": {"Google": 1, "Akamai": 24}}
+{"url": "imzog.com", "object_size": {"Amazon Cloudfront": 3826, "Google": 27982, "MaxCDN": 83}, "object_count": {"Amazon Cloudfront": 3, "Google": 3, "MaxCDN": 1}}
+{"url": "1905.com", "object_size": {}, "object_count": {}}
+{"url": "adf.ly", "object_size": {"Fastly": 17238, "Google": 167144, "Akamai": 119752}, "object_count": {"Fastly": 1, "Google": 17, "Akamai": 8}}
+{"url": "discovercard.com", "object_size": {"Google": 4262, "Akamai": 512032}, "object_count": {"Google": 5, "Akamai": 24}}
+{"url": "google.co.kr", "object_size": {"Google": 22319}, "object_count": {"Google": 6}}
+{"url": "americanexpress.com", "object_size": {"Akamai": 431611}, "object_count": {"Akamai": 24}}
+{"url": "linkedin.com", "object_size": {"Google": 772, "Akamai": 492602}, "object_count": {"Google": 3, "Akamai": 13}}
+{"url": "likes.com", "object_size": {"MaxCDN": 7199, "Google": 113932}, "object_count": {"MaxCDN": 1, "Google": 7}}
+{"url": "mega.nz", "object_size": {"EdgeCast": 4833}, "object_count": {"EdgeCast": 1}}
+{"url": "deviantart.com", "object_size": {"Level3": 54643, "Amazon Cloudfront": 11340, "Google": 596028, "Akamai": 59640}, "object_count": {"Level3": 1, "Amazon Cloudfront": 1, "Google": 21, "Akamai": 8}}
+{"url": "tokopedia.com", "object_size": {"Amazon Cloudfront": 28573, "EdgeCast": 805953, "Google": 275637, "Akamai": 361, "CDNetworks": 8918}, "object_count": {"Amazon Cloudfront": 5, "EdgeCast": 44, "Google": 15, "Akamai": 3, "CDNetworks": 1}}
+{"url": "doublepimp.com", "object_size": {"Fastly": 9020, "Google": 50104, "Amazon Cloudfront": 11807, "Windows Azure": 24912}, "object_count": {"Fastly": 1, "Google": 6, "Amazon Cloudfront": 1, "Windows Azure": 2}}
+{"url": "sahibinden.com", "object_size": {"Google": 221943}, "object_count": {"Google": 12}}
+{"url": "pandora.com", "object_size": {"Fastly": 34205, "Google": 10056, "Akamai": 35056}, "object_count": {"Fastly": 2, "Google": 1, "Akamai": 3}}
+{"url": "onlinesbi.com", "object_size": {}, "object_count": {}}
+{"url": "reddit.com", "object_size": {"Google": 59060}, "object_count": {"Google": 4}}
+{"url": "webmd.com", "object_size": {"Amazon Cloudfront": 3108, "EdgeCast": 117156, "Google": 279089, "Akamai": 1555141}, "object_count": {"Amazon Cloudfront": 2, "EdgeCast": 1, "Google": 10, "Akamai": 179}}
+{"url": "nicovideo.jp", "object_size": {"EdgeCast": 87, "Google": 17969}, "object_count": {"EdgeCast": 1, "Google": 4}}
+{"url": "chinadaily.com.cn", "object_size": {"Amazon Cloudfront": 3826, "ChinaCache": 212164}, "object_count": {"Amazon Cloudfront": 3, "ChinaCache": 45}}
+{"url": "trello.com", "object_size": {"Amazon Cloudfront": 163025, "Google": 6540, "Akamai": 17407}, "object_count": {"Amazon Cloudfront": 22, "Google": 1, "Akamai": 3}}
+{"url": "newegg.com", "object_size": {"Amazon Cloudfront": 85432, "EdgeCast": 79820, "Google": 385430, "Akamai": 597606}, "object_count": {"Amazon Cloudfront": 1, "EdgeCast": 13, "Google": 37, "Akamai": 83}}
+{"url": "orange.fr", "object_size": {"EdgeCast": 12397, "Akamai": 28952}, "object_count": {"EdgeCast": 3, "Akamai": 1}}
+{"url": "acfun.tv", "object_size": {}, "object_count": {}}
+{"url": "csdn.net", "object_size": {"Google": 643101}, "object_count": {"Google": 16}}
+{"url": "usatoday.com", "object_size": {"Amazon Cloudfront": 179488, "EdgeCast": 147671, "Google": 945753, "Akamai": 1398178, "Fastly": 380187}, "object_count": {"Amazon Cloudfront": 5, "EdgeCast": 5, "Google": 27, "Akamai": 200, "Fastly": 5}}
+{"url": "nyaa.se", "object_size": {}, "object_count": {}}
+{"url": "imgur.com", "object_size": {"Amazon Cloudfront": 11340, "EdgeCast": 97157, "Google": 37742, "Akamai": 9404}, "object_count": {"Amazon Cloudfront": 1, "EdgeCast": 1, "Google": 3, "Akamai": 3}}
+{"url": "loading-delivery2.com", "object_size": {}, "object_count": {}}
+{"url": "offerhaus.link", "object_size": {}, "object_count": {}}
+{"url": "gmw.cn", "object_size": {"Amazon Cloudfront": 3725, "Google": 1421, "ChinaCache": 41488}, "object_count": {"Amazon Cloudfront": 1, "Google": 3, "ChinaCache": 17}}
+{"url": "onclickads.net", "object_size": {"Google": 13421}, "object_count": {"Google": 8}}
+{"url": "google.co.uk", "object_size": {"Google": 10531}, "object_count": {"Google": 7}}
+{"url": "xnxx.com", "object_size": {"Highwinds": 345770, "Limelight": 328472}, "object_count": {"Highwinds": 12, "Limelight": 50}}
+{"url": "google.it", "object_size": {"Google": 27121}, "object_count": {"Google": 8}}
+{"url": "pixnet.net", "object_size": {"Amazon Cloudfront": 3768, "Google": 375908, "Yahoo": 20480}, "object_count": {"Amazon Cloudfront": 2, "Google": 27, "Yahoo": 2}}
+{"url": "digikala.com", "object_size": {"Amazon Cloudfront": 91711, "Google": 24064}, "object_count": {"Amazon Cloudfront": 4, "Google": 5}}
+{"url": "google.co.za", "object_size": {"Google": 4246}, "object_count": {"Google": 5}}
+{"url": "blkget.com", "object_size": {}, "object_count": {}}
+{"url": "google.sk", "object_size": {"Google": 530856}, "object_count": {"Google": 6}}
+{"url": "xinhuanet.com", "object_size": {"ChinaCache": 283855}, "object_count": {"ChinaCache": 94}}
+{"url": "livejasmin.com", "object_size": {"Google": 29421}, "object_count": {"Google": 5}}
+{"url": "bilibili.com", "object_size": {}, "object_count": {}}
+{"url": "paytm.com", "object_size": {"Fastly": 22451, "Cloudflare": 9416, "Akamai": 710652, "Google": 231288}, "object_count": {"Fastly": 3, "Cloudflare": 3, "Akamai": 49, "Google": 12}}
+{"url": "fc2.com", "object_size": {"Google": 30039, "CDNetworks": 100799}, "object_count": {"Google": 4, "CDNetworks": 21}}
+{"url": "tumblr.com", "object_size": {"Highwinds": 45200, "Amazon Cloudfront": 102061, "Google": 28929}, "object_count": {"Highwinds": 12, "Amazon Cloudfront": 5, "Google": 5}}
+{"url": "flickr.com", "object_size": {"Google": 27197}, "object_count": {"Google": 2}}
+{"url": "stackoverflow.com", "object_size": {"Google": 10736, "Akamai": 9961}, "object_count": {"Google": 2, "Akamai": 5}}
+{"url": "verizonwireless.com", "object_size": {"EdgeCast": 879505}, "object_count": {"EdgeCast": 24}}
+{"url": "360.com", "object_size": {"Amazon Cloudfront": 900589}, "object_count": {"Amazon Cloudfront": 129}}
+{"url": "ikea.com", "object_size": {"Akamai": 92093}, "object_count": {"Akamai": 21}}
+{"url": "google.az", "object_size": {"Google": 372600}, "object_count": {"Google": 5}}
+{"url": "rdsa2012.com", "object_size": {"Google": 62869}, "object_count": {"Google": 4}}
+{"url": "gismeteo.ru", "object_size": {"Google": 27982}, "object_count": {"Google": 3}}
+{"url": "sogou.com", "object_size": {}, "object_count": {}}
+{"url": "pixiv.net", "object_size": {"Google": 396216}, "object_count": {"Google": 17}}
+{"url": "popads.net", "object_size": {"Google": 22903}, "object_count": {"Google": 2}}
+{"url": "tube8.com", "object_size": {"Reflected Networks": 50001, "Google": 27650, "EdgeCast": 142469}, "object_count": {"Reflected Networks": 7, "Google": 3, "EdgeCast": 3}}
+{"url": "ancestry.com", "object_size": {"EdgeCast": 82112, "Akamai": 321073}, "object_count": {"EdgeCast": 1, "Akamai": 22}}
+{"url": "youtube-mp3.org", "object_size": {"Google": 29993}, "object_count": {"Google": 2}}
+{"url": "tabelog.com", "object_size": {"Amazon Cloudfront": 1956, "Google": 210420, "Yahoo": 79089, "Akamai": 1637374}, "object_count": {"Amazon Cloudfront": 1, "Google": 11, "Yahoo": 11, "Akamai": 184}}
+{"url": "google.nl", "object_size": {"Google": 27296}, "object_count": {"Google": 7}}
+{"url": "iqiyi.com", "object_size": {"Akamai": 374639}, "object_count": {"Akamai": 52}}
+{"url": "lifebuzz.com", "object_size": {"MaxCDN": 115613, "EdgeCast": 30133, "Google": 139466, "Akamai": 90575, "Amazon Cloudfront": 3826}, "object_count": {"MaxCDN": 2, "EdgeCast": 1, "Google": 24, "Akamai": 15, "Amazon Cloudfront": 3}}
+{"url": "godaddy.com", "object_size": {"Akamai": 237635}, "object_count": {"Akamai": 12}}
+{"url": "messenger.com", "object_size": {}, "object_count": {}}
+{"url": "nytimes.com", "object_size": {"Fastly": 9020, "EdgeCast": 10533, "Google": 161252, "Akamai": 11305}, "object_count": {"Fastly": 1, "EdgeCast": 1, "Google": 3, "Akamai": 2}}
+{"url": "google.com.tw", "object_size": {"Google": 36689}, "object_count": {"Google": 7}}
+{"url": "capitalone.com", "object_size": {"EdgeCast": 10582, "Akamai": 986927}, "object_count": {"EdgeCast": 1, "Akamai": 18}}
+{"url": "google.at", "object_size": {"Google": 78813}, "object_count": {"Google": 7}}
+{"url": "nih.gov", "object_size": {"Google": 97589}, "object_count": {"Google": 11}}
+{"url": "bankofamerica.com", "object_size": {"Google": 194}, "object_count": {"Google": 1}}
+{"url": "impress.co.jp", "object_size": {"Google": 27615}, "object_count": {"Google": 2}}
+{"url": "kakaku.com", "object_size": {"Amazon Cloudfront": 3876, "Google": 683731, "CDNetworks": 10336, "Akamai": 854111}, "object_count": {"Amazon Cloudfront": 1, "Google": 22, "CDNetworks": 2, "Akamai": 109}}
+{"url": "savefrom.net", "object_size": {"Google": 250887}, "object_count": {"Google": 12}}
+{"url": "dailymotion.com", "object_size": {"Fastly": 53738, "EdgeCast": 403088, "Google": 33567, "Akamai": 1495, "Amazon Cloudfront": 15465}, "object_count": {"Fastly": 4, "EdgeCast": 41, "Google": 11, "Akamai": 1, "Amazon Cloudfront": 1}}
+{"url": "force.com", "object_size": {"Fastly": 22676, "Google": 484, "Akamai": 352772}, "object_count": {"Fastly": 1, "Google": 7, "Akamai": 25}}
+{"url": "msn.com", "object_size": {"Akamai": 55356}, "object_count": {"Akamai": 14}}
+{"url": "exoclick.com", "object_size": {"Fastly": 14270, "Cloudflare": 3516, "Google": 161815}, "object_count": {"Fastly": 3, "Cloudflare": 2, "Google": 14}}
+{"url": "haosou.com", "object_size": {}, "object_count": {}}
+{"url": "naukri.com", "object_size": {"Google": 178029, "Akamai": 867093}, "object_count": {"Google": 8, "Akamai": 82}}
+{"url": "ask.fm", "object_size": {"Google": 6959, "Akamai": 113260}, "object_count": {"Google": 1, "Akamai": 27}}
+{"url": "intuit.com", "object_size": {"Google": 2519, "Akamai": 788332}, "object_count": {"Google": 5, "Akamai": 20}}
+{"url": "rutracker.org", "object_size": {}, "object_count": {}}
+{"url": "scribd.com", "object_size": {"Fastly": 899716, "EdgeCast": 46579, "Google": 70732, "Amazon Cloudfront": 112310}, "object_count": {"Fastly": 35, "EdgeCast": 1, "Google": 4, "Amazon Cloudfront": 1}}
+{"url": "2ch.net", "object_size": {"Google": 602, "Akamai": 34402}, "object_count": {"Google": 2, "Akamai": 3}}
+{"url": "china.com.cn", "object_size": {"ChinaCache": 246466}, "object_count": {"ChinaCache": 96}}
+{"url": "theguardian.com", "object_size": {"Fastly": 1656734, "Google": 174856, "Amazon Cloudfront": 11148}, "object_count": {"Fastly": 92, "Google": 25, "Amazon Cloudfront": 3}}
+{"url": "livedoor.com", "object_size": {"Amazon Cloudfront": 42, "Google": 233445, "Akamai": 58384}, "object_count": {"Amazon Cloudfront": 1, "Google": 24, "Akamai": 7}}
+{"url": "ontests.me", "object_size": {}, "object_count": {}}
